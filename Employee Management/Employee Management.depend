@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1624296849 source:c:\users\ishmu\onedrive - universiti teknologi malaysia (utm)\c++\employee management\employee management\employee.cpp
+	"Employee.h"
+	<bits/stdc++.h>
+
+1624299616 c:\users\ishmu\onedrive - universiti teknologi malaysia (utm)\c++\employee management\employee management\employee.h
+	<bits/stdc++.h>
+	"Person.h"
+
+1624353146 c:\users\ishmu\onedrive - universiti teknologi malaysia (utm)\c++\employee management\employee management\person.h
+	<bits/stdc++.h>
+
+1624538701 source:c:\users\ishmu\onedrive - universiti teknologi malaysia (utm)\c++\employee management\employee management\main.cpp
+	"Person.h"
+	"Employee.h"
+	<bits/stdc++.h>
+	<Windows.h>
+	<conio.h>
+	<fstream>
+
+1624353233 source:c:\users\ishmu\onedrive - universiti teknologi malaysia (utm)\c++\employee management\employee management\person.cpp
+	"Person.h"
+	<bits/stdc++.h>
+
